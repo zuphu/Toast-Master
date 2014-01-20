@@ -1,0 +1,13 @@
+We've all done searches online, but have you ever performed an advanced search? For those who have never performed advanced searches you may be wondering why you would even consider performing an advanced search. I will begin by discussing the benefits of this type of search. Then I will be showing you practical examples of taking advantage of.
+
+
+The internet is a vast resource filled with billions of Gigabytes worth of data. Having so much data at our fingertips allows us to do everything from finding recipes for dinner to booking your next flight. With all this information available at the touch of a finger tip it is a useful skill to learn how to filter your search results allowing you to find what more precisely what you are looking for.
+
+Let's begin!:
+Navigate to google.com:
+Example of a normal search:
+"apple"
+
+1. Excluding items from your search results. This is important when searching with words with multiple meanings. For example when doing a search on the word apple you will encounter various search results including the company's and products related to the search term. This is because Google ranks it's pages based on the popularity of a website. The more links to a page from other websites the higher the ranking will be when a search is performed. But what if we wanted results relating only to the fruit and not the company?
+
+
